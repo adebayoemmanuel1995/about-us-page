@@ -1,0 +1,416 @@
+body {
+    font-family: 'Raleway';
+
+}
+
+
+.full-page-top {
+    display: flex;
+    /* font-family: 'raleway'; */
+
+
+}
+
+.top-div {
+    Width: 800px;
+    Height: 550px;
+    border-radius: 20px;
+    margin: auto;
+    background-color: #ECF0EF;
+
+}
+
+.top-div h2 {
+    text-align: center;
+    line-height: 19px;
+    margin-bottom: 5px;
+    /* font-family: 'raleway'; */
+    font-family: 'Raleway';
+    font-size: 32px;
+
+
+}
+
+.top-div p {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Raleway';
+
+
+
+}
+
+.top-div span {
+    color: #6E9E76;
+}
+
+.top-body {
+    width: 700px;
+    height: 390px;
+    border-radius: 20px;
+    background: rgba(33, 67, 39, 0.13);
+    margin: auto;
+
+}
+
+.top-story {
+
+    display: flex;
+    justify-content: center;
+    /* margin: 30px; */
+}
+
+
+
+
+.true-div {
+    text-align: left;
+    margin: 50px;
+    /* margin-left: ; */
+    margin-top: 7px;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Raleway';
+    color: rgba(242, 81, 86, 0.8);
+
+}
+
+.true-div h4 {
+    text-align: left;
+}
+
+
+.story-div {
+
+    margin: 50px;
+    margin-top: 15px;
+    /* margin-right: auto; */
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 50px;
+    text-align: left;
+    /* color: #5F4B4B; */
+
+}
+
+.story-div p {
+    text-align: left;
+    line-height: 25px;
+    font-size: 15px;
+
+    margin: 3px;
+    font-family: 'Raleway';
+
+}
+
+.shot {
+    width: 280px;
+    height: 20px;
+    margin: auto;
+    background-color: #FFFFFF;
+    display: flex;
+    border-radius: 5px;
+}
+
+.shot p {
+    font-size: 13px;
+    margin: auto;
+    font-family: 'Raleway';
+
+}
+
+.core- {
+    display: flex;
+}
+
+.core- h1 {
+    margin: auto;
+    margin-top: 15px;
+    font-family: 'Raleway';
+
+}
+
+.core {
+    width: 100%;
+    height: 430px;
+    background-color: #8ACCA9;
+
+}
+
+.core-div {
+    display: flex;
+    margin-top: 0;
+    padding-top: 0;
+    height: 50px;
+    padding-bottom: 10px;
+
+
+}
+
+.core-div h4 {
+    margin-top: 0;
+    padding-top: 0;
+    /* margin-left: 30%; */
+    margin: auto;
+    line-height: 0;
+    line-height: 90px;
+    font-family: 'Raleway';
+
+}
+
+.box-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    padding-top: 0;
+
+
+}
+
+.img {
+    width: 300px;
+    height: 285px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+}
+
+.img p {
+    width: 170px;
+    height: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: 'Raleway';
+
+}
+
+.img-text {
+    display: flex;
+    background-color: #FFFFFF;
+    width: 390px;
+    justify-content: center;
+    /* margin-left: 40%; */
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.img-text p {
+    font-size: 15px;
+    margin: auto;
+    /* margin-left: 27px;
+    margin-right: 27px; */
+    font-family: 'Raleway';
+
+}
+
+.our-people {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1px;
+}
+
+.our-people h1 {
+    font-family: 'Raleway';
+    margin-bottom: 1px;
+
+}
+
+.our-people-page {
+    position: absolute;
+    width: 1440px;
+    height: 492px;
+    background-color: #ECF0EF;
+
+}
+
+.our-people-story {
+
+
+    width: 600px;
+    height: 492px;
+
+    margin: auto;
+
+    background: #D1DAD5;
+    border: 1px solid black;
+}
+
+.our-people-story {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+
+}
+
+.body-img {
+    width: 100%;
+    height: 105vh;
+    background-color: #ECF0EF;
+}
+
+.first-img- {
+    width: 1100px;
+    height: 105vh;
+    margin: auto;
+    background-color: #D1DAD5;
+
+
+}
+
+.first-img {
+    margin-top: 0;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.box-pic {
+    margin-top: 60px;
+    width: 250px;
+    margin-left: 110px;
+    height: 280px;
+    margin-bottom: 50px;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+
+    border: 8px solid #f1cf6c;
+}
+
+
+.name-lable {
+    width: 250px;
+    height: 60px;
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    position: absolute;
+    align-self: flex-end;
+    margin-bottom: 30px;
+    margin-left: 140px;
+    background-color: #FFFFFF;
+
+
+}
+
+.name-lable p {
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 0;
+    padding-top: 0;
+    top: 0;
+    text-align: center;
+    line-height: 2px;
+    font-family: 'Raleway';
+
+}
+
+.name-lable h3 {
+    font-size: 18px;
+    margin-top: 5px;
+    padding-top: 0;
+    top: auto;
+    text-align: left;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    font-family: 'Raleway';
+
+}
+
+.full-name {
+    width: 80px;
+    height: 20px;
+    margin-left: 50px;
+    align-items: flex-end;
+    border: 1px solid black;
+}
+
+.text-img- {
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    margin-right: 130px;
+    margin-top: 30px;
+
+}
+
+.text-img- h4 {
+    font-weight: 140px;
+    font-size: 18px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    line-height: 25px;
+    color: #052865;
+    font-family: 'Raleway';
+
+
+}
+
+.text-img- h5 {
+    font-weight: 165px;
+    font-size: 13px;
+    margin-top: 0;
+    color: rgba(242, 81, 86, 0.8);
+    font-family: 'Raleway';
+    line-height: 22px;
+
+
+}
+
+.all-img {
+    display: flex;
+    margin-top: 0;
+    padding-top: 0;
+    justify-content: center;
+}
+
+.all-img img {
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 2px;
+}
+
+
+.pic {
+    margin: 20px;
+    width: 150px;
+    height: 130px;
+}
+
+.pic :hover {
+    border: 1px solid black;
+    border-radius: 10px;
+    border-bottom: 0;
+
+}
+
+.heard {
+    width: 980px;
+    height: 6px;
+    border: 1px;
+    border-radius: 6px;
+    margin-left: 60px;
+    margin-top: 21px;
+    background-color: #EEE9E9;
+    ;
+
+
+    /* justify-content: center; */
+
+}
+
+.heard-body {
+    width: 270px;
+    height: 6px;
+    border-radius: 6px;
+    background-color: #6E9E76;
+
+}
